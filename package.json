@@ -33,7 +33,7 @@
     ]
   },
   "devDependencies": {
-    "terser": "^3.14.1"
+    "terser": "^4.8.1"
   },
   "homepage": "http://goodluckjjin.github.io/movie_app_2019"
 }
